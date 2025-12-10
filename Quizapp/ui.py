@@ -11,8 +11,8 @@ class QuizInterface():
         self.window.title("Quizzlet")
         self.window.config(padx = 20, pady = 20, bg= THEME_COLOR)
 
-        correct_img = PhotoImage(file = "Day 34/images/true.png")
-        false_img = PhotoImage(file= "Day 34/images/false.png")
+        correct_img = PhotoImage(file = "images/true.png")
+        false_img = PhotoImage(file= "images/false.png")
 
         self.label_score = Label(text = "Score: 0", fg = "white", bg = THEME_COLOR)
         
