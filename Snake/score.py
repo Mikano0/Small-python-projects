@@ -4,7 +4,7 @@ class Scoreboard(Turtle):
     def __init__(self):
         super().__init__()
         self.score = 0
-        with open("Day 20/data.txt") as file:
+        with open("data.txt") as file:
             self.highscore = int(file.read())
         self.goto(0,270)
         self.penup()
@@ -20,7 +20,7 @@ class Scoreboard(Turtle):
     def reset(self):
         if self.score > self.highscore:
             self.highscore = self.score
-            with open("Day 20/data.txt", mode="w") as file:
+            with open("data.txt", mode="w") as file:
                 file.write(str(self.highscore))
 
         self.score = 0
@@ -35,5 +35,6 @@ class Scoreboard(Turtle):
 
         
     
+
 
 
