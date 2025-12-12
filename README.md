@@ -17,24 +17,38 @@ These are all small programs that i'm making to see how far my skills have gotte
 
 ---
 
-✅ Progress Tracker
+🧭 Learning Roadmap
 
-Here’s a quick snapshot of what I’ve been working on:
+Here’s roughly the path I’m following to get better at Python:
 
-- [x] Set up this GitHub repo  
-- [x] Create project structure  
-- [x] Create a small game  
-- [x] Learn file handling (read/write)  
-- [x] Practice basic data structures  
-- [x] Try some error handling exercises
-- [x] Object-Oriented Programming (OOP) – Learn classes, objects, methods, and encapsulation
-- [x] JSON / Pandas file handling – Read, manipulate, and store structured data efficiently
-- [x] APIs – Fetch and work with external data through RESTful APIs    <- Working on this now
+🟢 Beginner Topics
+- [x] Variables & data types  
+- [x] Printing to console / basic input/output  
+- [x] Conditional statements (`if/else`)  
+- [x] Loops (`for`, `while`)  
+- [x] Functions & basic function design  
+- [x] Small game projects to apply basics  
 
-Advanced / Future Goals
-- [ ] Flask – Build simple web applications and understand routing, templates, and forms  
-- [ ] Data visualization – Practice plotting data using libraries like Matplotlib or Seaborn  
-- [ ] Web scraping – Learn to extract data from websites using BeautifulSoup or similar tools 
+🟡 Current / Intermediate Topics
+- [x] Object-Oriented Programming (OOP) – classes, objects, methods  
+- [x] Lists & dictionaries  
+- [x] File handling (read/write, text and CSV files)  
+- [x] Modules & imports (organizing code into reusable parts)  
+- [x] Debugging basics & error handling 
+- [x] Data manipulation with Pandas
+- [x] APIs – fetching and working with external data   <------- I am here
+- [ ] Flask – building simple web apps with routing and templates   
+- [ ] Data visualization – plotting with Matplotlib, Seaborn, or Plotly  
+- [ ] Web scraping – extracting data from websites  
+
+🔵 Future Goals
+- [ ] More complex GUI projects (Tkinter, PyQt, or similar)  
+- [ ] Full-stack web projects / automation scripts  
+- [ ] Machine Learning basics – using libraries like scikit-learn or TensorFlow  
+- [ ] Working with databases – SQL, SQLite, or PostgreSQL integration  
+- [ ] Advanced web scraping & data pipelines  
+- [ ] Deploying apps – making your Python projects accessible online  
+
 
 
 ▶️ How to Run the Projects
