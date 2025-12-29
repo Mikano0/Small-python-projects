@@ -39,7 +39,7 @@ Here’s roughly the path I’m following to get better at Python:
 - [x] APIs – fetching and working with external data   <------- I am here
 - [ ] Flask – building simple web apps with routing and templates   
 - [ ] Data visualization – plotting with Matplotlib, Seaborn, or Plotly  
-- [ ] Web scraping – extracting data from websites  
+- [x] Web scraping – extracting data from websites  
 
 🔵 Future Goals
 - [ ] More complex GUI projects (Tkinter, PyQt, or similar)  
