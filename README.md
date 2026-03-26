@@ -37,15 +37,15 @@ Here’s roughly the path I’m following to get better at Python:
 - [x] Debugging basics & error handling 
 - [x] Data manipulation with Pandas
 - [x] APIs – fetching and working with external data   <------- I am here
-- [ ] Flask – building simple web apps with routing and templates   
-- [ ] Data visualization – plotting with Matplotlib, Seaborn, or Plotly  
+- [x] Flask – building simple web apps with routing and templates   
+- [x] Data visualization – plotting with Matplotlib, Seaborn, or Plotly  
 - [x] Web scraping – extracting data from websites  
 
 🔵 Future Goals
 - [ ] More complex GUI projects (Tkinter, PyQt, or similar)  
 - [ ] Full-stack web projects / automation scripts  
 - [ ] Machine Learning basics – using libraries like scikit-learn or TensorFlow  
-- [ ] Working with databases – SQL, SQLite, or PostgreSQL integration  
+- [x] Working with databases – SQL, SQLite, or PostgreSQL integration  
 - [ ] Advanced web scraping & data pipelines  
 - [ ] Deploying apps – making your Python projects accessible online  
 
